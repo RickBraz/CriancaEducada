@@ -1,0 +1,2 @@
+# CriancaEducada
+substitui palavras
