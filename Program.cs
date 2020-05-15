@@ -29,7 +29,7 @@ namespace CriancaEducada
             .Replace("burro" , "!@#$%")
             .Replace("burra" , "!@#$%")
             .Replace("besta" , "!@#$%");
-         
+            Console.WriteLine("Eu sou uma criança educada. No seu lugar eu diria:");
             Console.WriteLine(mensagem);
 
         }
